@@ -1,0 +1,21 @@
+===== Noise Level Monitor Simulation =====
+Time = 00s | Noise = 35 dB | Status = QUIET
+Time = 01s | Noise = 38 dB | Status = QUIET
+Time = 02s | Noise = 42 dB | Status = MODERATE
+Time = 03s | Noise = 48 dB | Status = MODERATE
+Time = 04s | Noise = 55 dB | Status = MODERATE
+Time = 05s | Noise = 61 dB | Status = LOUD
+Time = 06s | Noise = 65 dB | Status = LOUD
+Time = 07s | Noise = 72 dB | Status = LOUD
+Time = 08s | Noise = 78 dB | Status = LOUD
+Time = 09s | Noise = 83 dB | Status = LOUD
+Time = 10s | Noise = 88 dB | Status = DANGEROUS
+Time = 11s | Noise = 92 dB | Status = DANGEROUS
+Time = 12s | Noise = 87 dB | Status = DANGEROUS
+Time = 13s | Noise = 75 dB | Status = LOUD
+Time = 14s | Noise = 68 dB | Status = LOUD
+Time = 15s | Noise = 58 dB | Status = MODERATE
+Time = 16s | Noise = 52 dB | Status = MODERATE
+Time = 17s | Noise = 45 dB | Status = MODERATE
+Time = 18s | Noise = 39 dB | Status = QUIET
+Time = 19s | Noise = 35 dB | Status = QUIET
